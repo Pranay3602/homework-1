@@ -1,0 +1,10 @@
+birthday1="07/06/2014"
+birthday2="05/07/2012"
+birthday3="05/03/2011"
+birthday4="04/09/2015"
+birthday5="08/12/2011"
+print(birthday1)
+print(birthday2)
+print(birthday3)
+print(birthday4)
+print(birthday5)
