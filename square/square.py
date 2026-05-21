@@ -1,0 +1,12 @@
+coulor=(input("what coulor do you want your backround to be?"))
+import turtle
+turtle.Screen().bgcolor(coulor)
+turtle.Screen().setup(400,400)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
